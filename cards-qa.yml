@@ -5,9 +5,10 @@ build:
 cards:
   message: "Welcome to AmandeaBank cards related QAT APIs "
   contactDetails:
-    name: "Oren - QA Team Lead"
+    name: "Oren - QAT Team Lead"
     email: "oren7070@gamil.com"
   onCallSupport:
     - (777) 555-1234
 
     - (777) 523-1345
+
