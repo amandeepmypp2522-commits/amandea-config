@@ -3,10 +3,11 @@ build:
 
 
 loans:
-  message: "Welcome to AmandeaBank accounts related Prod APIs "
+  message: "Welcome to AmandeaBank accounts related Production APIs "
   contactDetails:
     name: "Eti - Production Manager"
     email: "EtiTiwari@amandeabank.com"
   onCallSupport:
     - (111) 555-1234
+
     - (111) 523-1345
