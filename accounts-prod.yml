@@ -5,12 +5,13 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related Production APIs "
   contactDetails:
-    name: "Noa Bhusari From Israel - Prod Manager"
+    name: "Noa - Prod Manager"
     email: "{cipher}73feb44d7e6207cadaf02c4f3c9ffc095292a7d83b52f5d69d7f4601271c99bc0da5804634ff851fb6534c80b5683bc7"
   onCallSupport:
     - (999) 222-1234
 
     - (999) 222-1345
+
 
 
 
