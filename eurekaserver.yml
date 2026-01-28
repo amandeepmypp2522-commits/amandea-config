@@ -5,13 +5,12 @@ server:
 eureka:
   instance:
     hostname: localhost
-  dashboard:
-    enabled: true
   client:
     fetchRegistry: false
     registerWithEureka: false
     serviceUrl:
-      defaultZone: "http://localhost:8075/eureka/"
+      defaultZone: http://${eureka.instance.localhost}:${server.port}/eureka/
+
 
 
 
