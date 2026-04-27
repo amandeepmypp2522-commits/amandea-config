@@ -3,9 +3,9 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to EazyBank accounts related qa APIs "
   contactDetails:
-    name: "Sudeep Singh - QA Lead"
+    name: "Sudeep Singh Gurgoan- QA Lead"
     email: "sudeep2522@amandeabank.com"
   onCallSupport:
     - (666) 255-9658
